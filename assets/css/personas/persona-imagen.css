@@ -1,0 +1,24 @@
+.persona__imagen {
+    height: 300px; /*altura de la imagen*/
+    width: 300px; /*ancho*/
+}
+.persona__imagen--roberta {
+    background: url("../../img/personas/roberta.jpg");
+    
+}
+.persona__imagen--marcela {
+    background: url("../../img/personas/marcela.jpg");
+    
+}
+.persona__imagen--andrea {
+    background: url("../../img/personas/andrea.jpg");
+    
+}
+.persona__imagen {
+    background-position: center;
+    background-repeat: no-repeat;/*para no repetir la imagen */
+    background-size: cover;/*abarca el tamaño total para la imagen sin repetir*/
+    border-radius: 100%;
+    height: 300px;
+    width: 300px;
+}

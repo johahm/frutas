@@ -1,0 +1,6 @@
+.recetas {
+    background: #e5e5e5;
+    display: flex;
+    flex-wrap: wrap;/*elemnot de lineas en colun¿mnas*/
+    padding: 5rem 0 0 5rem;
+}
