@@ -2,5 +2,20 @@
     background: #e5e5e5;
     display: flex;
     flex-wrap: wrap;/*elemnot de lineas en colun¿mnas*/
-    padding: 5rem 0 0 5rem;
+}
+@media screen and (min-width: 0) {
+    .recetas {
+        padding: 5rem 0 0 1rem;
+    }
+}
+
+@media screen and (min-width: 768px) { /*para table*/
+    .recetas {
+        padding: 5rem 0 0 2.5rem;
+    }
+}
+@media screen and (min-width: 922px) { /*para escritorio*/
+    .recetas {
+        padding: 5rem 0 0 5rem;
+    }
 }

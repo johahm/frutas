@@ -4,3 +4,12 @@
     text-decoration: none;
     text-transform: lowercase;
 }
+
+.menu_link.activo {
+    color: #333333;
+    font-weight: bold;
+}
+
+.menu__link:hover {
+    text-decoration: underline;
+}
