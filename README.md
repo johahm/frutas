@@ -1,2 +1,3 @@
 # arquitectura-css
-curso de arquitectura de Alura. 
+
+(https://johahm.github.io/frutas/)
